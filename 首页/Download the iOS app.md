@@ -19,7 +19,7 @@ Adding instructive screenshots, GIFs, or videos is a snap.
 - Type `/video` to embed a video file of your choosing (including from YouTube or Vimeo).
 - Here's a handy example showing how to add a table of contents:
 
-![Download%20the%20iOS%20app/Table_of_Contents.gif](public/首页/Download%20the%20iOS%20app/Table_of_Contents.gif)
+![Download%20the%20iOS%20app/Table_of_Contents.gif](首页/Download%20the%20iOS%20app/Table_of_Contents.gif)
 
 # Tour of features
 
